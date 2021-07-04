@@ -1,0 +1,15 @@
+button{
+    height: 50px;
+    background: brown;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+}
+button:hover{
+    background-color: rgb(47, 12, 12);
+}
+@media only screen and (max-width: 990px) {
+    button {
+      flex-basis: 200px;
+    }
+  }

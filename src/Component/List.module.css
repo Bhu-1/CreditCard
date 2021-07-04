@@ -1,0 +1,12 @@
+.list{
+    background: #e4e4e4;
+    padding-left: 30px;
+}
+.list span{
+    font-size: 1.2rem;
+}
+.list button{
+    width: 100px;
+    font-size: 18px;
+    margin-left: 35px;
+}
